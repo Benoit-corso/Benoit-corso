@@ -4,6 +4,7 @@
 It pronouced: Nox, azer(layout of a french keyboard)
 For the joke don't worry i use an american layout ;)
 ```
+- 🎯 My goal is to obtain an MsC/MBA in Cybersecurity within 3 years.
 - 🔭 I’m currently working on Micro-Kernel and MitM Framework...
 - ⚡ I'm interested on geopolitic, OSINT, low-level development.
 - 🌱 Every projects repositories will be completed in the next 2 months.
