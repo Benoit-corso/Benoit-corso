@@ -4,6 +4,12 @@
 It pronouced: Nox, azer(layout of a french keyboard)
 For the joke don't worry i use an american layout ;)
 ```
+- 🔭 I’m currently working on Micro-Kernel and MitM Framework...
+- ⚡ I'm interested on geopolitic, OSINT, low-level development.
+- 🌱 Every projects repositories will be completed in the next 2 months.
+- 💬 Just started this GH profile, DYOR to find my others😄
+- 💻 I dev since my 11 years old, booted my 1st linux at 9.
+- 👯 After so many years in the field I want to get a job and start a great career.
 <!--
 **Benoit-corso/Benoit-corso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
