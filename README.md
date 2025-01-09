@@ -10,7 +10,7 @@ For the joke don't worry i use an american layout ;)
 - 🌱 Every projects repositories will be completed in the next 2 months.
 - 💬 Just started this GH profile, DYOR to find my others 😄
 - 💻 I dev since my 11 years old, my 1st prompt was at 9y. So i've done many years to RTFM 😂
-- 👯 After so many years in the field I want to get a job and start a great career.
+- 👯 I want to get a job and start a great career.
 <!--
 **Benoit-corso/Benoit-corso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
